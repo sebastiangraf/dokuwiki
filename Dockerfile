@@ -13,6 +13,7 @@ RUN apt-get install -y \
 	apache2 \
 	php5 \
 	php5-gd \
+    php5-ldap \
 	wget
 
 
