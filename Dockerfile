@@ -2,7 +2,7 @@
 #
 # VERSION               0.1
 
-FROM      ubuntu:14.04
+FROM      ubuntu:18.04
 MAINTAINER idef1x <docker@sjomar.eu>
 
 ENV DEBIAN_FRONTEND noninteractive
